@@ -1,41 +1,41 @@
 # Go-Lectures
 
-Repositório de estudos e anotações sobre a linguagem **Go** (Golang).
+A repository for studies and notes on the **Go** (Golang) programming language.
 
-Contém exemplos, exercícios e notas de aulas cobrindo fundamentos e tópicos avançados da linguagem.
+Contains examples, exercises, and lecture notes covering both the fundamentals and more advanced topics of the language.
 
-## Estrutura
+## Structure
 
 ```
 .
 ├── README.md
-├── CLAUDE.md         # Instruções para assistentes de IA
+├── CLAUDE.md         # Instructions for AI assistants
 └── .gitignore
 ```
 
-## Requisitos
+## Requirements
 
-- [Go](https://go.dev/dl/) 1.22+
+- [Go](https://go.dev/dl/) 1.26+
 
-## Como rodar
+## Getting started
 
 ```bash
-go run ./caminho/do/arquivo.go
+go run ./path/to/file.go
 ```
 
-Para módulos:
+For modules:
 
 ```bash
 go mod tidy
 go run .
 ```
 
-## Testes
+## Tests
 
 ```bash
 go test ./...
 ```
 
-## Licença
+## License
 
 MIT

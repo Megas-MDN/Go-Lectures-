@@ -8,7 +8,7 @@ Repositório de estudos da linguagem **Go** — exemplos, exercícios e notas de
 
 ## Stack
 
-- Linguagem: **Go** (1.22+)
+- Linguagem: **Go** (1.26+)
 - Ferramentas: `go`, `go test`, `go vet`, `gofmt`
 - Sem framework web padrão — varia por exemplo
 
